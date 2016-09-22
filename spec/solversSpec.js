@@ -91,14 +91,14 @@ describe('solvers', function() {
     });
   });
 
-  describe('countNQueensBitwise(16)', function() {
+  // describe('countNQueensBitwise(16)', function() {
 
-    it('finds solution for 16', function() {
-      var solutionCount = countNQueensBitwise(16);
+  //   it('finds solution for 16', function() {
+  //     var solutionCount = countNQueensBitwise(16);
 
-      expect(solutionCount).to.be.equal(14772512);
-    });
-  });
+  //     expect(solutionCount).to.be.equal(14772512);
+  //   });
+  // });
 
 });
 
